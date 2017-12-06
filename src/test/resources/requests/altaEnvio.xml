@@ -1,0 +1,39 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:and="http://www.andreani.com.ar">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <and:ConfirmarCompraConRecibo>
+         <!--Optional:-->
+              <and:compra>
+               <and:Calle>Av San Martin</and:Calle>
+               <and:CategoriaDistancia></and:CategoriaDistancia>
+               <and:CategoriaFacturacion></and:CategoriaFacturacion>
+               <and:CategoriaPeso></and:CategoriaPeso>
+               <and:CodigoPostalDestino>1833</and:CodigoPostalDestino>
+               <and:Contrato>300004756</and:Contrato>
+               <and:Departamento></and:Departamento>
+               <and:DetalleProductosEntrega></and:DetalleProductosEntrega>
+               <and:DetalleProductosRetiro></and:DetalleProductosRetiro>
+               <and:Email>alfonsoyonico@hotmail.com</and:Email>
+               <and:Localidad>ROSARIO</and:Localidad>
+               <and:NombreApellido>aragunde mauro</and:NombreApellido>
+               <and:NombreApellidoAlternativo>alfonso yonico</and:NombreApellidoAlternativo>
+               <and:Numero>2127</and:Numero>
+               <and:NumeroCelular></and:NumeroCelular>
+               <and:NumeroDocumento>37612000</and:NumeroDocumento>
+               <and:NumeroTelefono></and:NumeroTelefono>
+               <and:NumeroTransaccion>25589</and:NumeroTransaccion>
+               <and:Peso>8800</and:Peso>
+               <and:Piso></and:Piso>
+               <and:Provincia>SANTA FE</and:Provincia>
+               <and:SucursalCliente></and:SucursalCliente>
+               <and:SucursalRetiro>044</and:SucursalRetiro>
+               <and:Tarifa>1.00</and:Tarifa>
+               <and:TipoDocumento></and:TipoDocumento>
+               <and:ValorACobrar></and:ValorACobrar>
+               <and:ValorDeclarado>6154</and:ValorDeclarado>
+               <and:Volumen>275000</and:Volumen>
+               <and:NumeroRecibo>1122737</and:NumeroRecibo>
+               </and:compra>   
+      </and:ConfirmarCompraConRecibo>
+   </soapenv:Body>
+</soapenv:Envelope>

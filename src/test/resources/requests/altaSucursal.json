@@ -1,0 +1,26 @@
+{
+	"nomenclatura":"TUR",
+	"descripcion":"Turdera",
+	"resumen":"Turdera",
+	"tipoDeSucursal":"Sucursal",
+	"idDireccion":"152899543",
+	"telefono":"4444 8888",
+	"personaResponsable":
+		{
+			"nombre":"Mauro",
+			"apellido":"Aragunde",
+			"nombreCompleto":"Aragunde Mauro",
+			"email":"maragunde@andreani.com"
+		},
+	"localizacion":
+		{
+			"latitud":-34.6824757,
+			"longitud":-58.640537600000016,
+			"altitud":0
+		},
+	"email":"testautomatizado@andreani.com",
+	"horarioDeAtencion":"De LUN a VIE de 18 a 23 Hs",
+	"idRegion":101,
+	"seHaceAtencionAlCliente":true,
+	"usaPad":true
+}
