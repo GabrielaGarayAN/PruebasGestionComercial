@@ -1,3 +1,4 @@
+
 # Created by https://www.gitignore.io/api/java,maven,windows,eclipse
 
 ### Eclipse ###
@@ -82,7 +83,6 @@ local.properties
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-
 ### Maven ###
 target/
 pom.xml.tag
@@ -132,3 +132,4 @@ report
 *.png
 
 # End of https://www.gitignore.io/api/java,maven,windows,eclipse
+
